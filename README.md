@@ -16,4 +16,3 @@ Or to run it in the background
   
     docker run -d rethinkdb
     
-    #################################################################
